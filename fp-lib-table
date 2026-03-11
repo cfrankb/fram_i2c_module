@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "w_switch")(type "KiCad")(uri "${KIPRJMOD}/library/mod_switch/w_switch.pretty")(options "")(descr ""))
+)
